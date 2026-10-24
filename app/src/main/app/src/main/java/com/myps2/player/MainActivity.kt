@@ -1,4 +1,3 @@
-
 package com.myps2.player
 
 import android.app.Activity
